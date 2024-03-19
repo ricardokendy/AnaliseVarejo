@@ -1,4 +1,4 @@
-# AnaliseVarejo
+# Análise do Varejo
 
 Composto por informações de vendas de uma loja virtual que atua no território brasileirom vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros
 
