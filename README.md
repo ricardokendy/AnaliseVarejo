@@ -1,6 +1,6 @@
 # AnaliseVarejo
 
-# Composto por informações de vendas de uma loja virtual que atua no território brasileirom vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros
+Composto por informações de vendas de uma loja virtual que atua no território brasileirom vendendo produtos de diferentes departamentos. Além disso, a loja atua em diferentes canais de venda, como marketplace, loja própria, entre outros
 
 Premissas de negócio:
 Ao analisar os dados, é importante ter em mente que existem algumas premissas de negócios que devem ser consideradas. A primeira delas é que, devido a um erro no sistema, algumas compras não possuem informações de UF (Unidade Federativa). Para solucionar esse problema, foi decidido que essas compras serão consederadas como pertecentes ao estado de Mato Grosso do Sul(MS). A segunda premissa é que o preço final de um produto não pode ser maior do que o preço com frete.
